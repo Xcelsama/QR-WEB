@@ -1,0 +1,16 @@
+{
+    "name": "Scan Web App",
+    "version": "1.0.0",
+    "description": "A simple Node.js web app allows you to scan",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "http": "^0.0.1-security",
+        "path": "^0.12.7"
+    }
+}
